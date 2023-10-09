@@ -1,5 +1,4 @@
 # Modele-regresyjne będące przedmiotem planowanych workshop-ów
-
 1. polynomial_regression.ipynb
 2. decision_tree_regression.ipynb
 3. mpg-case-regression.ipynb
