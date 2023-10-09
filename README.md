@@ -13,5 +13,5 @@
 1. regression_metrics.ipynb
 2. gradient_descent.ipynb
 -----------------------------------------------------------------------------------------------------
-Prezentacja dotycząca budowy modeli regresyjnych
+# Prezentacja dotycząca budowy modeli regresyjnych
 1. Modele regresyjne.pptx 
