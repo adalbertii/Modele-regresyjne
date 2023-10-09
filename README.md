@@ -6,3 +6,4 @@
 4. pipeline-boston-house.ipynb
 5. k-fold-evalutaing-regresion-car-price-case.ipynb
 6. backward-atribute-elimination.ipynb
+7. employee-salary-prediction.ipynb
