@@ -10,6 +10,6 @@
 8. regression-kagledataset-different-algorytm.ipynb
 9. neural_network_pytorch_regression_case.ipynb
 -----------------------------------------------------------------------------------------------------
-# notebook - pomocnicze  implementujące meryki ewaluacji modelu oraz optymalizator gradient descent 
+# Pomocnicze  Notebooks  implementujące meryki ewaluacji modelu oraz optymalizator gradient descent 
 1. regression_metrics.ipynb
 2. gradient_descent.ipynb
