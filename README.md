@@ -9,3 +9,6 @@
 7. employee-salary-prediction.ipynb
 8. regression-kagledataset-different-algorytm.ipynb
 9. neural_network_pytorch_regression_case.ipynb
+
+# notebook - pomocnicze 
+1. regression_metrics.ipynb
