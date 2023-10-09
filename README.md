@@ -8,3 +8,4 @@
 6. backward-atribute-elimination.ipynb
 7. employee-salary-prediction.ipynb
 8. regression-kagledataset-different-algorytm.ipynb
+9. neural_network_pytorch_regression_case.ipynb
