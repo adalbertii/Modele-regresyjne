@@ -13,3 +13,6 @@
 # Pomocnicze  Notebooks  implementujące meryki ewaluacji modelu oraz optymalizator gradient descent 
 1. regression_metrics.ipynb
 2. gradient_descent.ipynb
+-----------------------------------------------------------------------------------------------------
+Prezentacja dotycząca budowy modeli regresyjnych
+1. Modele regresyjne.pptx 
