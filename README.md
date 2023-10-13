@@ -15,3 +15,4 @@
 -----------------------------------------------------------------------------------------------------
 # Prezentacja dotycząca budowy modeli regresyjnych
 1. Modele regresyjne.pptx 
+2. Modele regresyjne-13.10.2023.pptx - kontynuacja
